@@ -1,4 +1,4 @@
-from src.viz.easykey import FilesGrid
+from src.viz.EasyKey import FilesGrid
 
 
 filesGrid = FilesGrid()
